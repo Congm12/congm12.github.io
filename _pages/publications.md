@@ -28,8 +28,17 @@ Genome Biology 19.1 (2018): 52
 Fan Wu, Cong Ma, and Cheemeng Tan  
 Scientific Reports 6 (2016): 36626
 
+
 Talks
 ======
+SQUID: transcriptomic structural variation detection from RNA-seq.  
+CSHL Genome Informatics (2017)
+
+SQUID: transcriptomic structural variation detection from RNA-seq.
+ISMB (2018)
+
 
 Posters
 ======
+Detecting anomalies in RNA-seq quantification.  
+RECOMB (2019)
